@@ -1,0 +1,111 @@
+# VIP . com — Generative Engine Optimization Map
+
+> An online or physical store specializing in the sale of vaping products (vapes/e-cigarettes). The business focuses on offering vaping devices and related accessories to customers interested in vaping as an alternative to traditional smoking.
+
+---
+
+## Pages
+
+### בית
+https://vip-com-a4247816.zappy5.app
+מחפש ויפ לקנות אונליין ישראל? ב-VIP . com תמצא מבחר ענק של סיגריות אלקטרוניות, מכשירים איכותיים ונוזלים בטעמים מטריפים. הצטרף עכשיו לחוויית אידוי חדשה במחירים שווים לכל כיס!
+
+### חוויית טעמים
+https://vip-com-a4247816.zappy5.app/flavor-experience
+מכור לנוזל לויפ טעמים מגוונים? דפדף בין עשרות תמציות ייחודיות, מפירות קייציים ועד קינוחים מפנקים. ב-VIP . com כל שאיפה היא הרפתקה – מצא את הטעם שיסחוף אותך עוד היום.
+
+### אודות
+https://vip-com-a4247816.zappy5.app/about
+ב-VIP . com אנחנו לא סתם עוד חנות – אנחנו קהילה שמאמינה באידוי כאלטרנטיבה חכמה לעישון. גלו את הסיפור, הערכים והתשוקה שמאחורי הסיגריה האלקטרונית הזולה והאיכותית ביותר. בואו להכיר!
+
+### שאלות נפוצות
+https://vip-com-a4247816.zappy5.app/faq
+מתלבט איזה ויפ מומלץ למתחילים? או איך לתחזק סיגריה אלקטרונית זולה? דף השאלות הנפוצות שלנו מרכז את כל התשובות במקום אחד. היכנס וקבל את כל המידע שאתה צריך בשביל להתחיל לאדות כמו מקצוען.
+
+### צור קשר
+https://vip-com-a4247816.zappy5.app/contact
+יש שאלה על ויפ לקנות אונליין ישראל? צריך עזרה בבחירת נוזל לויפ טעמים מגוונים? צוות המומחים של VIP . com זמין לענות לך על הכל. מלא את הטופס וקבל מענה מהיר ואישי – כי מגיע לך שירות VIP.
+
+### Products
+https://vip-com-a4247816.zappy5.app/products
+המוצרים שלנו - VIP . com
+
+### Cart
+https://vip-com-a4247816.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://vip-com-a4247816.zappy5.app/checkout
+תשלום
+
+### Login
+https://vip-com-a4247816.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://vip-com-a4247816.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://vip-com-a4247816.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://vip-com-a4247816.zappy5.app/product/:slug
+פרטי המוצר - VIP . com
+
+### Category
+https://vip-com-a4247816.zappy5.app/category/:slug
+מוצרים - VIP . com
+
+### תודה שפנית אלינו
+https://vip-com-a4247816.zappy5.app/thank-you
+VIP . com - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://vip-com-a4247816.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://vip-com-a4247816.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://vip-com-a4247816.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About VIP . com
+An online or physical store specializing in the sale of vaping products (vapes/e-cigarettes). The business focuses on offering vaping devices and related accessories to customers interested in vaping as an alternative to traditional smoking.
+
+## Services/Products
+- מכירת ויפים
+
+## Target Audience
+- חובבי וייפינג צעירים
+- מעשנים מודעים לבריאות
+- צרכנים חובבי טכנולוגיה
+
+## Industry
+E-commerce / Vaping Products
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://vip-com-a4247816.zappy5.app/sitemap.xml
+- Robots: https://vip-com-a4247816.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://vip-com-a4247816.zappy5.app/llms-full.txt
+- Products (JSON): https://vip-com-a4247816.zappy5.app/products.json
+- Products (Google Merchant RSS): https://vip-com-a4247816.zappy5.app/product-feed.xml

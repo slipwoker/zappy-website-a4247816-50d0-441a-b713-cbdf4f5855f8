@@ -789,13 +789,13 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "a4247816-50d0-441a-b713-cbdf4f5855f8";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "a4247816-50d0-441a-b713-cbdf4f5855f8";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
@@ -1302,10 +1302,10 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-type="fullscreen-scrim" id="index-hero-section" style="margin-top: -70px !important; padding-top: 70px !important;" data-zappy-nav-underlap="true">
   <!-- Full-bleed Background Image -->
   <div class="index-hero-section__bg-wrapper">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" class="index-hero-section__bg-image" data-placeholder="index-hero-image-1" data-context="A cinematic, luxury fragrance-inspired vaping scene with abstract iridescent vapor clouds swirling diagonally across a dark studio background, glossy metallic device silhouettes catching lavender and peach rim lights, soft mist texture, and dramatic editorial lighting reminiscent of a high-end perfume campaign" width="1200" height="600" src="/assets/site-image-index-hero-image-1.webp" alt="אווירת וייפ יוקרתית עם ענני אדים סגולים וכתומים" decoding="async" />
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" class="index-hero-section__bg-image" data-placeholder="index-hero-image-1" data-context="A cinematic, luxury fragrance-inspired vaping scene with abstract iridescent vapor clouds swirling diagonally across a dark studio background, glossy metallic device silhouettes catching lavender and peach rim lights, soft mist texture, and dramatic editorial lighting reminiscent of a high-end perfume campaign" width="1200" height="600" src="/assets/site-image-index-hero-image-1.webp" alt="אווירת וייפ יוקרתית עם ענני אדים סגולים וכתומים" data-hero-background="true" data-element-type="image" data-element-id="img-1784327718381-obvy2vgbj" decoding="async" />
   </div>
 
   <!-- Scrim Overlay for Text Legibility -->
@@ -1317,13 +1317,13 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
     <h3 class="index-hero-section__subtitle">VIP .com – היעד המוביל למכשירי אידוי מודרניים, השראה בטעמים ואביזרים נלווים. חוויית קנייה יוקרתית שמותאמת לקצב החיים שלך.</h3>
     
     <div class="index-hero-section__cta-group">
-      <a href="/contact" class="index-hero-section__cta index-hero-section__cta--primary">
+      <a href="/contact" class="index-hero-section__cta index-hero-section__cta--primary" style="color: var(--text-color, #1a1a1a) !important; outline: medium; border-color: transparent !important; background-color: transparent !important; background-image: linear-gradient(135deg, rgb(185, 156, 255), rgb(255, 79, 139)) !important;" data-native-element="true" data-element-id="btn-1784327723562-worxcwyse" data-element-type="button" data-text-color="dark">
         <span>דברו עם VIP</span>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-element-type="icon" data-element-id="icon-1784327718381-uj06hti34" data-icon-type="svg"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
       </a>
       <a href="/flavor-experience" class="index-hero-section__cta index-hero-section__cta--secondary">
         <span>גלו את החוויה</span>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-element-type="icon" data-element-id="icon-1784327718381-98abhzawl" data-icon-type="svg"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
       </a>
     </div>
   </div>
